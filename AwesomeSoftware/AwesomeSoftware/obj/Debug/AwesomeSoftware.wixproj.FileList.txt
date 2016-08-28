@@ -1,0 +1,6 @@
+D:\AwesomeSoftware\AwesomeSoftware\bin\Debug\AwesomeSoftware.msi
+D:\AwesomeSoftware\AwesomeSoftware\bin\Debug\AwesomeSoftware.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\AwesomeSoftware.wixproj.BindContentsFileListnull.txt
+obj\Debug\AwesomeSoftware.wixproj.BindOutputsFileListnull.txt
+obj\Debug\AwesomeSoftware.wixproj.BindBuiltOutputsFileListnull.txt

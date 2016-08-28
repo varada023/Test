@@ -1,0 +1,2 @@
+D:\AwesomeSoftware\AwesomeSoftware\bin\Debug\AwesomeSoftware.msi
+D:\AwesomeSoftware\AwesomeSoftware\bin\Debug\AwesomeSoftware.wixpdb
